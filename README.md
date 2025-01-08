@@ -9,6 +9,7 @@ I graduated from Memorial University of Newfoundland with a Bachelor's degree in
 ## Projects
 
 - 🔢 [Xenoblade Chronicles 3 Stat and Damage Calculator](https://jacob511-hub.github.io/XC3StatCalculator/)
+- :calendar: [Persona 5 Royal Calendar and Activities Tracker](https://jacob511-hub.github.io/P5R-Calendar/)
 
 ## Languages
 
