@@ -10,6 +10,7 @@ I graduated from Memorial University of Newfoundland with a Bachelor's degree in
 
 - 🔢 [Xenoblade Chronicles 3 Stat and Damage Calculator](https://jacob511-hub.github.io/XC3StatCalculator/)
 - :calendar: [Persona 5 Royal Calendar and Activities Tracker](https://jacob511-hub.github.io/P5R-Calendar/)
+- 🐉 [Online Dragonarium](https://jacob511-hub.github.io/OnlineDragonarium/)
 
 ## Languages
 
@@ -27,7 +28,7 @@ I graduated from Memorial University of Newfoundland with a Bachelor's degree in
   </a>
 </p>
 
-I have experience primarily using HTML, CSS, and JavaScript, as well as some prior experience with Python and MATLAB throughout my degree.
+I have experience primarily using HTML, CSS, JavaScript, React, TypeScript, Node, and Express, as well as some prior experience with Python and MATLAB throughout my degree.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob511-hub&layout=donut-vertical)](https://github.com/Jacob511-hub/github-readme-stats)
 
